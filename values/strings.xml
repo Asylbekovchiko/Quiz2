@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">VIKTORINA_by_CHIKO</string>
+    <string name="btn_start">ПОГНАЛИ</string>
+    <string name="btn_back">НАЗАД</string>
+    <string name="btn_continue">ПРОДОЛЖИТЬ</string>
+    <string name="choose">Выберите уровень!!!</string>
+    <string name="cr">CREATED BY AsylbekovChyngyz</string>
+    <string name="a">ВИКТОРИНА</string>
+
+
+
+
+    <string name="dsp">Правила очень просты: Нужно угадать какая картинка правильная.Правильного ответа никто не скажет. Нужно все запоминать!
+    В каждом уровне нужно набрать 15очков.
+    Правильный ответ = +1очко
+        Неправильный ответ = -2очка
+    </string>
+
+
+
+    <string name="level1">УРОВЕНЬ 1</string>
+    <string name="leve21">УРОВЕНЬ 2</string>
+    <string name="leve31">УРОВЕНЬ 3</string>
+    <string name="leve41">УРОВЕНЬ 4</string>
+    <string name="leve51">УРОВЕНЬ 5</string>
+    <string name="level6">УРОВЕНЬ 6</string>
+    <string name="leve71">УРОВЕНЬ 7</string>
+    <string name="leve81">УРОВЕНЬ 8</string>
+    <string name="leve91">УРОВЕНЬ 9</string>
+    <string name="level10">УРОВЕНЬ 10</string>
+    <string name="level11">УРОВЕНЬ 11</string>
+    <string name="level12">УРОВЕНЬ 12</string>
+    <string name="level13">УРОВЕНЬ 13</string>
+    <string name="level14">УРОВЕНЬ 14</string>
+    <string name="level15">УРОВЕНЬ 15</string>
+
+
+
+    <string name="discription1">Выбирайте только съедобное!</string>
+    <string name="discription2">Угадай, какое животное  тяжелее?</string>
+    <string name="discription3">Угадай, кто из актеров старше?</string>
+    <string name="discription4">Угадай, у кого из этих футболистов больше всего красных карточек?</string>
+    <string name="discription5">Угадай, кто был богаче в 2020 по версии Forbes?</string>
+    <string name="discription6">Угадай, чей укус больнее по шкале Шмидта?</string>
+    <string name="discription7">Угадай, какое насекомое опаснее для человека? </string>
+    <string name="discription11">Угадай, у какого кино бюджет больше?</string>
+    <string name="discription12">Угадай, какое животное быстрее?</string>
+    <string name="discription13">Угадай, в каком фрукте больше всего содержится сахара?</string>
+    <string name="discription14">Угадай, какое насекомое используется человеком?</string>
+    <string name="discription15">Тест на внимательность. Найди леденец!</string>
+    <string name="discription16">Тест на внимательность. Найди медведя!</string>
+    <string name="discription17">Тест на внимательность. Найди сердце!</string>
+    <string name="discription18">Угадай, какой герой погиб в кино/мультфильмах?</string>
+
+
+
+
+
+    <string name="lvl2zero">Медуза \nНомура</string>
+    <string name="lvl2one">Страус</string>
+    <string name="lvl2three">Гризли</string>
+    <string name="lvl2four">Лев</string>
+    <string name="lvl2five">Тигр</string>
+    <string name="lvl2six">Гребнистый \nкрокодил</string>
+    <string name="lvl2seven">Буйвол</string>
+    <string name="lvl2eight">Тунец</string>
+    <string name="lvl2nine">Белый \nмедведь</string>
+    <string name="lvl2ten">Жираф</string>
+    <string name="lvl2eleven">Носорог</string>
+
+
+
+    <string name="lvl3zero">Дэниел Рэдклифф</string>
+    <string name="lvl3one">Джаред Падалеки</string>
+    <string name="lvl3three">Элайджа Вуд</string>
+    <string name="lvl3four">Райан Гослинг</string>
+    <string name="lvl3five">Джейк Джилленхол</string>
+    <string name="lvl3six">Дженсен Эклс</string>
+    <string name="lvl3seven">Том Харди</string>
+    <string name="lvl3eight">Бенедикт Камбербэтч</string>
+    <string name="lvl3nine">Кристиан Бэйл</string>
+    <string name="lvl3ten">Мэтт Деймон</string>
+    <string name="lvl3eleven">Роберт Дауни младший</string>
+    <string name="lvl3twelve">Мэтью МакКонохи</string>
+    <string name="lvl3thirteen">Джонни Деп</string>
+    <string name="lvl3fourteen">Том Круз</string>
+    <string name="lvl3fiveten">Джим Керри</string>
+    <string name="lvl3sixten">Сэмуэль Л. Джексон</string>
+    <string name="lvl3seventeen">Майкл Кейн</string>
+
+
+    <string name="lvl4zero">Килиан Мбаппе</string>
+    <string name="lvl4one">Рафаэль Варан</string>
+    <string name="lvl4three">Лионель Месси</string>
+    <string name="lvl4four">Гарет Бэйл</string>
+    <string name="lvl4five">Диего Коста</string>
+    <string name="lvl4six">Жерар Пике</string>
+    <string name="lvl4seven">Неймар</string>
+    <string name="lvl4eight">Пепе</string>
+    <string name="lvl4nine">Криштиану Роналду</string>
+    <string name="lvl4ten">Патрик Виейра</string>
+    <string name="lvl4eleven">Серхио Рамос</string>
+
+
+    <string name="lvl5zero">Ларри Пейдж\n(Соснователь Google)</string>
+    <string name="lvl5one">Уоррен Баффет\n(Глава совета директоров Berkshire Hathaway)</string>
+    <string name="lvl5three">Мукеш Амбани\n(Президент Reliance Industries)</string>
+    <string name="lvl5four">Стив Балмер\n(Бывший гендиректор Microsoft)</string>
+    <string name="lvl5five">Ларри Эллисон\n(Основатель Oracle)</string>
+    <string name="lvl5six">Марк Цукерберг\n(Основатель Facebook)</string>
+    <string name="lvl5seven">Бернар Арно\n(Президент Louis Vuitton)</string>
+    <string name="lvl5eight">Билл Гейст\n(Соснователь Microsoft)</string>
+    <string name="lvl5nine">Джефф Безос\n(Основатель Amazon)</string>
+    <string name="lvl5ten">Илон Маск\n(Глава SpaceX)</string>
+
+
+
+
+    <string name="lvl9one">Потовая \nпчела (галактиды)</string>
+    <string name="lvl9two">Огненный\n муравей</string>
+    <string name="lvl9three">Акациевый \nмуравей</string>
+    <string name="lvl9four">Пятнистая оса \n(белолицый шершень)</string>
+    <string name="lvl9five">Обычная\n оса</string>
+    <string name="lvl9six">Медоносная \nпчела</string>
+    <string name="lvl9seven">Красный американский\n муравей-жнец</string>
+    <string name="lvl9eight">Бумажная \nоса</string>
+    <string name="lvl9nine">Тарантуловый \nястреб</string>
+    <string name="lvl9ten">Муравей-пуля</string>
+
+
+
+    <string name="lvl0one">Муха цеце</string>
+    <string name="lvll0two">Гусеница \nпавлиноглазкa</string>
+    <string name="lvll0three">Гигантская \nсколопендра</string>
+    <string name="lvll0four">Американский \nмуравей-жнец</string>
+    <string name="lvll0five">Человеческий \nкожный овод</string>
+    <string name="lvll0six">Азиатский \nгигантский шершень</string>
+    <string name="lvll0seven">Муравей-пуля</string>
+    <string name="lvll0eight">Пушистая \nгусеница</string>
+    <string name="lvll0nine">Бродячий \nмуравей</string>
+    <string name="lvll0ten">Африканизированная\n пчела</string>
+
+
+
+    <string name="lvl11one">Король Лев\n(2019)</string>
+    <string name="lvl11two">Рапунцель:\n Запутанная история \n(2010)</string>
+    <string name="lvll1three">Возвращение Супермена (2006)</string>
+    <string name="lvll1four">Хан Соло: Звёздные войны.\nИстории (2018)</string>
+    <string name="lvll1five">Звёздные войны: Скайуокер. \nВосход (2019)</string>
+    <string name="lvll1six">Лига справедливости \n(2017)</string>
+    <string name="lvll1seven">Пираты Карибского моря:\n На краю света \n(2007)</string>
+    <string name="lvll1eight">Звёздные войны: \nПоследние джедаи\n (2017)</string>
+    <string name="lvll1nine">Мстители:\n Война бесконечности \n(2018)</string>
+    <string name="lvll1ten">Мстители: \nФинал (2019)</string>
+
+
+
+    <string name="lvl12zero">Гепард</string>
+    <string name="lvl12one">Вилорог</string>
+    <string name="lvl12three">Газель \nГранта</string>
+    <string name="lvl12four"> Лев </string>
+    <string name="lvl12five"> Антилопа \nГну</string>
+    <string name="lvl12six"> Газель \nТомсона</string>
+    <string name="lvl12seven">Лось</string>
+    <string name="lvl12eight"> Гиеновая \nсобака</string>
+    <string name="lvl12nine"> Койот</string>
+    <string name="lvl12ten"> Борзая \nгончая \nсобака</string>
+
+
+    <string name="lvl13one">Яблоки</string>
+    <string name="lvl13two">Бананы</string>
+    <string name="lvl13three">Хурма</string>
+    <string name="lvl13four">Вишни</string>
+    <string name="lvl13five">Манго</string>
+    <string name="lvl13six">Гранат</string>
+    <string name="lvl13seven">Личи</string>
+    <string name="lvl13eight">Виноград</string>
+    <string name="lvl13nine"> Инжир</string>
+    <string name="lvl13ten"> Финик</string>
+
+
+
+
+    <string name="lvl14one">Жуки-златки</string>
+    <string name="lvl14one1">Жужелица</string>
+    <string name="lvl14two">Светлячки</string>
+    <string name="lvl14two1">Восковая \nмоль</string>
+    <string name="lvl14three">Божьи \nкоровки</string>
+    <string name="lvl14three1">Вши</string>
+    <string name="lvl14four">Пауки</string>
+    <string name="lvl14four1">Медведка</string>
+    <string name="lvl14five">Павлиноглазки</string>
+    <string name="lvl14five1">Шершень</string>
+    <string name="lvl14six"> Кошениль</string>
+    <string name="lvl14six1">Слепень</string>
+    <string name="lvl14seven"> Муравьи</string>
+    <string name="lvl14seven1">Богомол</string>
+    <string name="lvl14eight">Мушка-дрозофила</string>
+    <string name="lvl14eight1">Майский \nжук</string>
+    <string name="lvl14nine"> Тутовый \nшелкопряд</string>
+    <string name="lvl14nine1"> Блохи</string>
+    <string name="lvl14ten">Пчелы</string>
+    <string name="lvl14ten1"> Стрекоза</string>
+
+
+
+    <string name="lvl15one">Логан \n "Логан" 2017</string>
+    <string name="lvl15one1">Питер Паркер\n"Человек-Паук \nВозвращение домой" \n2017</string>
+    <string name="lvl15two">Роберт Нэвилл \n"Я-легенда" 2007</string>
+    <string name="lvl15two1">Гарри Поттер \n "Гарри Поттер"</string>
+    <string name="lvl15three">Тони Старк \n "Мстители:Финал" 2019</string>
+    <string name="lvl15three1">Тор\n"Мстители:Финал" \n2019</string>
+    <string name="lvl15four">Джон Коффи \n"Зеленая миля" 1999</string>
+    <string name="lvl15four1">Джейк Салли\n "Аватар"2009</string>
+    <string name="lvl15five">Альбус Дамблдор "Гарри Поттер" 2009</string>
+    <string name="lvl15five1">Эльза \n"Холодное сердце"2013</string>
+    <string name="lvl15six"> Северус Снегг\n"Гарри Поттер" 2011</string>
+    <string name="lvl15six1">Симба\n"Король Лев"1994</string>
+    <string name="lvl15seven"> Лесли Берк\n"Мост в Терабитию" 2007</string>
+    <string name="lvl15seven1">Бэтмен\n"Лига Справедливости"2017</string>
+    <string name="lvl15eight">Добби\n"Гарри Поттер"2010</string>
+    <string name="lvl15eight1">Фродо Бэггинс\n"Властелин колец"2001</string>
+    <string name="lvl15nine"> Бен Паркер\n"Человек-Паук" 2002</string>
+    <string name="lvl15nine1"> Голлум\n"Властелин колец"2001</string>
+    <string name="lvl15ten">Бенджамин Баттон\n"Загадочная история \nБенджамина Баттона"2008</string>
+    <string name="lvl15ten1"> Халк\n"Мстители:Финал"2019</string>
+
+
+
+
+</resources>

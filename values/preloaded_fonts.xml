@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amatic_sc</item>
+        <item>@font/asset</item>
+        <item>@font/autour_one</item>
+        <item>@font/bigelow_rules</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/butterfly_kids</item>
+        <item>@font/faster_one</item>
+    </array>
+</resources>
